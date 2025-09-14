@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+cryptography
+requests
+scapy
+psutil
+PyQt5
+PyQtChart
